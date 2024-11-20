@@ -1,5 +1,5 @@
 # pandas-challenge
-School District Performance Analysis with Pandas
+PyCitySchools: School District Performance Analysis with Pandas
 
 ## Contents
 1. [Overview](#1-overview)

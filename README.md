@@ -1,5 +1,5 @@
 # pandas-challenge
-Python Data Analysis Applications: PyBank and PyPoll
+School District Performance Analysis with Pandas
 
 ## Contents
 1. [Overview](#1-overview)

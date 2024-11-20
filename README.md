@@ -1,5 +1,5 @@
 # pandas-challenge
-PyCitySchools
+Python Data Analysis Applications: PyBank and PyPoll
 
 ## Contents
 1. [Overview](#1-overview)

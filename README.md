@@ -1,4 +1,5 @@
-# pandas-challenge - PyCitySchools
+# pandas-challenge
+PyCitySchools
 
 ## Contents
 1. [Overview](#1-overview)

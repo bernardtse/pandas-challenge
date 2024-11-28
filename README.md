@@ -19,11 +19,11 @@ The repository contains the following files:
   - [`PyCitySchools/PyCitySchools.ipynb`](PyCitySchools/PyCitySchools.ipynb): The main notebook containing the analysis and calculations.
   
 - **Report**
-  - [`PyCitySchools/report.md`](PyCitySchools/report.md): A written report summarising the analysis and drawing conclusions from the data.
+  - [`PyCitySchools/REPORT.md`](PyCitySchools/REPORT.md): A written report summarising the analysis and drawing conclusions from the data.
   
 - **Raw Data**
-  - `PyCitySchools/Resources/schools_complete.csv`: The dataset containing information on schools.
-  - `PyCitySchools/Resources/students_complete.csv`: The dataset containing student performance data.
+  - `PyCitySchools/resources/schools_complete.csv`: The dataset containing information on schools.
+  - `PyCitySchools/resources/students_complete.csv`: The dataset containing student performance data.
 
 ## 3. Deployment  
 To run this analysis on your local machine, ensure the following Python libraries are installed:

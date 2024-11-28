@@ -33,6 +33,7 @@ To run this analysis on your local machine, ensure the following Python librarie
 
 Once the libraries are installed, simply clone this repository, navigate to the folder containing the Jupyter Notebook, and open it in Jupyter to run the analysis. The results will be displayed within the notebook.
 
+![PyCitySchools](images/pycityschools_screenshot.png)
 
 ## 4. Data Analysis  
 This analysis answers the following questions:

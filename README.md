@@ -16,14 +16,14 @@ In this challenge, the analysis of school and standardised test data for a cityâ
 The repository contains the following files:
 
 - **Jupyter Notebook**
-  - [`PyCitySchools/PyCitySchools.ipynb`](PyCitySchools/PyCitySchools.ipynb): The main notebook containing the analysis and calculations.
+  - [`pycityschools/pycityschools.ipynb`](pycityschools/pycityschools.ipynb): The main notebook containing the analysis and calculations.
   
 - **Report**
-  - [`PyCitySchools/REPORT.md`](PyCitySchools/REPORT.md): A written report summarising the analysis and drawing conclusions from the data.
+  - [`pycityschools/REPORT.md`](pycityschools/REPORT.md): A written report summarising the analysis and drawing conclusions from the data.
   
 - **Raw Data**
-  - `PyCitySchools/resources/schools_complete.csv`: The dataset containing information on schools.
-  - `PyCitySchools/resources/students_complete.csv`: The dataset containing student performance data.
+  - `pycityschools/resources/schools_complete.csv`: The dataset containing information on schools.
+  - `pycityschools/resources/students_complete.csv`: The dataset containing student performance data.
 
 ## 3. Deployment  
 To run this analysis on your local machine, ensure the following Python libraries are installed:

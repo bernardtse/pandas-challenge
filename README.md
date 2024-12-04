@@ -19,7 +19,7 @@ The repository contains the following files:
   - [`pycityschools/pycityschools.ipynb`](pycityschools/pycityschools.ipynb): The main notebook containing the analysis and calculations.
   
 - **Report**
-  - [`pycityschools/REPORT.md`](pycityschools/REPORT.md): A written report summarising the analysis and drawing conclusions from the data.
+  - [`REPORT.md`](REPORT.md): A written report summarising the analysis and drawing conclusions from the data.
   
 - **Raw Data**
   - `pycityschools/resources/schools_complete.csv`: The dataset containing information on schools.

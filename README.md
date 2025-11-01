@@ -22,8 +22,8 @@ The repository contains the following files:
   - [`REPORT.md`](REPORT.md) - A written report summarising the analysis and drawing conclusions from the data
   
 - **Raw Data**
-  - [`pycityschools/resources/schools_complete.csv`](pycityschools/resources/schools_complete.csv) - The dataset containing information on schools
-  - [`pycityschools/resources/students_complete.csv`](pycityschools/resources/students_complete.csv) - The dataset containing student performance data
+  - `pycityschools/resources/schools_complete.csv` - The dataset containing information on schools
+  - `pycityschools/resources/students_complete.csv` - The dataset containing student performance data
 
 ## 3. Deployment  
 To run this analysis on your local machine, ensure the following Python libraries are installed:
